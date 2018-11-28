@@ -34,6 +34,10 @@
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.button2 = new System.Windows.Forms.Button();
+<<<<<<< HEAD
+=======
+            this.button3 = new System.Windows.Forms.Button();
+>>>>>>> 브런치
             this.SuspendLayout();
             // 
             // button1
@@ -84,18 +88,38 @@
             // 
             // button2
             // 
+<<<<<<< HEAD
             this.button2.Location = new System.Drawing.Point(56, 214);
+=======
+            this.button2.Location = new System.Drawing.Point(0, 0);
+>>>>>>> 브런치
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 5;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
             // 
+<<<<<<< HEAD
+=======
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(656, 126);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.TabIndex = 6;
+            this.button3.Text = "button3";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+>>>>>>> 브런치
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+<<<<<<< HEAD
+=======
+            this.Controls.Add(this.button3);
+>>>>>>> 브런치
             this.Controls.Add(this.button2);
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.checkBox1);

@@ -74,7 +74,11 @@
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
+<<<<<<< HEAD
             this.checkBox2.Location = new System.Drawing.Point(13, 13);
+=======
+            this.checkBox2.Location = new System.Drawing.Point(661, 12);
+>>>>>>> Person
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(86, 16);
             this.checkBox2.TabIndex = 4;
